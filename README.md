@@ -34,6 +34,7 @@ Total - 363 Images
 
 - It might struggle with huge datasets.
 - Colab free version will be slow.
+- We should have some idea about the dataset, random search wont work.
 
 
 ## Acknowledgements
