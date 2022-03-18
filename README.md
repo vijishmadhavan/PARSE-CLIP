@@ -30,7 +30,7 @@ Total - 363 Images
 
 ## Limitations
 
-- It Can have issues with huge datasets.
+- It might struggle with huge datasets.
 
 
 ## Acknowledgements
