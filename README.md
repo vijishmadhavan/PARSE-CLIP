@@ -14,4 +14,4 @@ A simple CLIP based project for Image data exploration, This has been very helpf
 - Move Images to a new folder and start training.
 
 
-Note: The project might can have issues, help me solve.
+*Note:* The project might can have issues, help me solve.
