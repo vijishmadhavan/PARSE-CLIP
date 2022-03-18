@@ -28,7 +28,7 @@ Total - 363 Images
 ### - Move Images to a new folder and start training.
 
 
-*Note:* The project might can have issues, help me solve.
+*Note:* The project might have issues, help me solve.
 
 
 ## Acknowledgements
