@@ -4,6 +4,7 @@ A simple CLIP based project for combining images from multiple datasets. This ha
 
 **Colab:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/PARSE-PIC/blob/master/PARSE_PIC.ipynb)
 
+![Combine](https://github.com/vijishmadhavan/PARSE-PIC/blob/master/Images/22.png)
 
 ## What can PARSE-PIC do?
 
