@@ -1,4 +1,4 @@
-# PARSE-PIC
+# PARSE-CLIP
 
 A simple CLIP based project for combining images from multiple datasets. This has been very helpful for me, hope it helps others as well.
 
