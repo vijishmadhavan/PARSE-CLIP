@@ -27,7 +27,7 @@ Total - 363 Images
 
 ![explore](https://github.com/vijishmadhavan/PARSE-PIC/blob/master/Images/download%20(3)-side.png)
 
-### - Move Images to a new folder and start training.
+### - Move Images to a new folder/drive and start training.
 
 
 ## Limitations
