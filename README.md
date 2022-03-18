@@ -2,7 +2,7 @@
 
 A simple CLIP based project for combining images from multiple datasets. This has been very helpful for me, hope it helps others as well.
 
-**Colab:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/PARSE-PIC/blob/master/PARSE_PIC.ipynb)
+**Colab:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/PARSE-CLIP/blob/master/PARSE_CLIP.ipynb)
 
 ![Combine](https://github.com/vijishmadhavan/PARSE-PIC/blob/master/Images/22.png)
 
