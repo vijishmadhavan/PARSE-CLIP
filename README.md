@@ -23,7 +23,7 @@ Total - 363 Images
 
 #### Search Query - Red hair
 
-![explore](https://github.com/vijishmadhavan/PARSE-PIC/blob/master/Images/download%20(3).png)
+![explore](https://github.com/vijishmadhavan/PARSE-PIC/blob/master/Images/download%20(3)-side.png)
 
 ### - Move Images to a new folder and start training.
 
