@@ -13,7 +13,7 @@ A simple CLIP based project for combining multiple datasets. This has been very 
 
 ![Data](https://github.com/vijishmadhavan/PARSE-PIC/blob/master/Images/download%20(1)-side.png)
 
-### - Search and find the the class and get the total number.
+### - Search the the class and get the total number.
 
 #### Search Query - Indian
 
