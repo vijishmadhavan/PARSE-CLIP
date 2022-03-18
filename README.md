@@ -21,6 +21,8 @@ Total - 363 Images
 
 - Get the search results and explore.
 
+
+
 - Move Images to a new folder and start training.
 
 
