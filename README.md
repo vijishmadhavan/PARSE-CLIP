@@ -7,6 +7,8 @@ A simple CLIP based project for Image data exploration, This has been very helpf
 
 - Combine Images from multiple datasets, to create a new dataset.
 
+#### Search Query - Specs
+
 ![Data](https://github.com/vijishmadhavan/PARSE-PIC/blob/master/Images/download%20(1)-side.png)
 
 - Search and find the the class and get the total number.
