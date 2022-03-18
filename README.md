@@ -3,11 +3,11 @@
 A simple CLIP based project for Image data exploration, This has been very helpful for me, hope it helps others as well.
 
 
-### What can PARSE-PIC do?
+## What can PARSE-PIC do?
 
 - Combine Images from multiple datasets, to create a new dataset.
 
-#### Search Query - Specs
+### Search Query - Specs
 
 ![Data](https://github.com/vijishmadhavan/PARSE-PIC/blob/master/Images/download%20(1)-side.png)
 
