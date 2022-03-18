@@ -5,7 +5,7 @@ A simple CLIP based project for combining multiple datasets. This has been very 
 
 ## What can PARSE-PIC do?
 
-- Combine Images from multiple datasets, to create a new dataset.
+### - Combine Images from multiple datasets, to create a new dataset.
 
 ### Search Query - Specs
 
