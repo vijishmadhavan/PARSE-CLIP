@@ -1,6 +1,6 @@
 # PARSE-PIC
 
-A simple CLIP based project for Image data exploration, This has been very helpful for me, hope it helps others as well.
+A simple CLIP based project for combining multiple datasets. This has been very helpful for me, hope it helps others as well.
 
 
 ## What can PARSE-PIC do?
