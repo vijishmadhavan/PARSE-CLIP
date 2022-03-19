@@ -10,7 +10,7 @@ A simple CLIP based project for combining images from multiple datasets. This ha
 
 ### - Combine Images from multiple datasets to create a new dataset.
 
-#### Search Query - Specs
+#### Search Query - Carrot
 
 ![Data](https://github.com/vijishmadhavan/PARSE-CLIP/blob/master/Images/aaa.png)
 
