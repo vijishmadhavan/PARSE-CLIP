@@ -12,7 +12,7 @@ A simple CLIP based project for combining images from multiple datasets. This ha
 
 #### Search Query - Specs
 
-![Data](https://github.com/vijishmadhavan/PARSE-PIC/blob/master/Images/download%20(1)-side.png)
+![Data](https://github.com/vijishmadhavan/PARSE-CLIP/blob/master/Images/aaa.png)
 
 ### - Search the the class and get the total number.
 
