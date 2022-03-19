@@ -30,7 +30,7 @@ Total - 363 Images
 
 ### - Move Images to a new folder/drive and start training.
 
-### - Remove unwanted Image from the dataset.
+### - Remove unwanted Images from the dataset.
 
 
 ## Limitations
